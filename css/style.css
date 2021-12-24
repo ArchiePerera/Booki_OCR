@@ -151,7 +151,6 @@ nav ul li:hover {
     border-bottom: 2px var(--lightGrey) solid;
     border-left: none;
     border-right: none;
-    cursor: pointer;
 }
 
 #search:focus {
@@ -232,6 +231,7 @@ button:hover {
     padding-right: 20px;
     margin-left: 20px;
     margin-bottom: 10px;
+    cursor: pointer;
     transition: 300ms ease;
 }
 

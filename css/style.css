@@ -406,6 +406,7 @@ aside {
     height: 120px;
     border-radius: 25px 25px 0px 0px;
     object-fit: cover;
+    object-position: center;
 }
 
 /* Activities section */
@@ -541,6 +542,7 @@ footer {
 
     .accomodation_card img {
         object-fit: cover;
+        object-position: center;
     }
 
     .accomodation_card h3 {
